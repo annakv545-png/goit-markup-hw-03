@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6, p{
 .container{
     margin: 0 auto;
     padding: 0 15px;
-    width: 1158px;
+    max-width: 1158px;
 }
 .section{
     padding-top: 120px;
